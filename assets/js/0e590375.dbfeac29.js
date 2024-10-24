@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmomoflow_docs=self.webpackChunkmomoflow_docs||[]).push([[2143],{8727:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/momoflow-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
