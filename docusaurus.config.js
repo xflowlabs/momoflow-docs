@@ -23,7 +23,7 @@ const config = {
   organizationName: 'xflowlabs', // Usually your GitHub org/user name.
   projectName: 'momoflow-docs', // Usually your repo name.
   deploymentBranch: 'deployment',
-  trailingSlash: 'false',
+  trailingSlash: false,
 
   
   onBrokenLinks: 'throw',
@@ -77,9 +77,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Momoflow',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Momoflow Logo',
           src: 'img/logo.svg',
         },
         items: [
