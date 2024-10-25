@@ -16,7 +16,7 @@ const config = {
   url: 'https://xflowlabs.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/momoflow-docs/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -81,6 +81,7 @@ const config = {
       navbar: {
         title: 'Momoflow',
         logo: {
+              href: 'https://momoflow.app/',
           alt: 'Momoflow Logo',
           src: 'img/logo.png',
         },

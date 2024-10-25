@@ -230,6 +230,4 @@ You can configure webhook notifications for assignment events in your MomoFlow d
 
 ## Need Help?
 
-- Check our [troubleshooting guide](/docs/troubleshooting)
-- Join our [Discord community](https://discord.gg/momoflow)
-- Contact support at support@momoflow.com
+- Contact support at info@momoflow.com

@@ -24,7 +24,7 @@ Authentication works the same way as other MomoFlow APIs. Include your API secre
 Authorization: Bearer YOUR_SECRET_KEY
 ```
 
-See our [Authentication Guide](/docs/authentication) for details on generating and managing API keys.
+See our [Authentication Guide](/api/authentication) for details on generating and managing API keys.
 
 ## Request Headers
 

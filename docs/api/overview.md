@@ -13,4 +13,4 @@ To use the API, you need an API key. Follow these steps to generate one:
 3. Click **Generate API Key**.
 
 ## API Endpoints
-The API includes various endpoints for managing flows, users, and more. Refer to the [API Endpoints](endpoints/) section for detailed documentation.
+The API includes various endpoints for managing flows, users, and more. Refer to the [API Endpoints](/api/endpoints/) section for detailed documentation.

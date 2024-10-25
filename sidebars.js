@@ -48,6 +48,7 @@ module.exports = {
           type: 'category',
           label: 'Endpoints',
           items: [
+            'api/endpoints/endpoints-overview',
             'api/endpoints/flow-assignment',
             'api/endpoints/flow-reporting',
           ],
